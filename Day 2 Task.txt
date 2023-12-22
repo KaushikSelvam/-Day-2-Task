@@ -1,0 +1,47 @@
+                                                                         DAY 2 TASK
+1)write blog on the difference between Document and window object?
+
+***Document object:***
+
+
+*The document object linked with DOM,Represting the entire HTML Document.
+
+*It create an structure interface to work and manipulate the content with the webpage.
+
+ *Content Interaction:
+        
+        * Main purpose of a Document object to interact between Content and HTML Document   
+
+        * Methods like getElementById and querrySelector to get from the  specific element based on their IDs.
+       
+ *Content Modificaton:
+        
+        * Devloper can easily able to change the data of the webpage using the document object.
+ 
+ *Event Handling:
+         
+        * The Document Object Helps for Event Handling.Developers can able to acess the event listners to the elements,And response to the user..
+        * Response will be like  click or key.
+
+
+***Window Object:***
+
+*In the Window Object helps to represents the browser window or tab which contain the HTML Document.
+
+*Main it helps for many purpose which related to browser Environment.
+
+ *Global Scope:
+   
+    * The Window object acts as a global object in javascript.Variable Decelared without any var,let,const Keywords becomes properties of the window object.
+ 
+ *Browser Information:
+
+    * Features of Window object to provide information about the browser environment.
+ 
+ *Navigation Control :
+   
+    * The window Object allows control over the browser,enabling action like opening new tabs or navigation to differnt URLs.
+
+      Example : const windowWidth = window.innerWidth;
+
+
